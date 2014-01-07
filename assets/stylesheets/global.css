@@ -68,10 +68,12 @@ body.loading #refresh{
 }
 /* MAIN */
 #main{
-  display:block;
+  /*display:block;
   height:100%;
   width:100%;
-  margin: 0; /*yes, we do!*/
+  margin: 0;
+  */ 
+  /*yes, we do!*/
 }
 
 #content {
